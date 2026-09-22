@@ -1,4 +1,4 @@
-# Task Manager Portal — Full Stack Assessment
+# Task Manager Portal
 
 A production-style project & task management portal built with React (frontend),
 Node.js/Express (backend, layered architecture), and SQLite (relational database
