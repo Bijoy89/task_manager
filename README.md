@@ -88,7 +88,7 @@ with an appropriate HTTP status code:
 ### 1. Clone and Configure
 
 ```bash
-git clone <your-repo-url> task-manager
+git clone https://github.com/Bijoy89/task_manager.git task-manager
 cd task-manager
 ```
 
@@ -280,7 +280,7 @@ git init
 git add .
 git commit -m "chore: initial commit — full stack task manager"
 git branch -M main
-git remote add origin <your-repo-url>
+git remote add origin https://github.com/Bijoy89/task_manager.git
 git push -u origin main
 ```
 
